@@ -1,3 +1,5 @@
+## Running Notes on Git and GitHub.
+
 ### What is Git?
 
 ### What is GitHub?
@@ -11,4 +13,8 @@
 ### How to create your first Repository in GitHub?
 
 ### How to Fork a Repo?
+
+### How to delete the Forked Repo?
+
+## Resources 
 
