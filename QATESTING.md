@@ -4,10 +4,12 @@
 
 #### Fn-Functional Testing
 
-#### Ux-Usability Testing
+#### Automated Testing
 
-#### Ld-Load Testing
+#### Ux-Usability Testing
 
 #### Sc-Security Testing
 
 #### Ln-Localization Testing
+
+#### Ld-Load Testing
