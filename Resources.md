@@ -1,4 +1,4 @@
 
-## Manual testing 
-## automation testing
-## performance Testing
+## Manual Testing 
+## Automation Testing
+## Performance Testing
