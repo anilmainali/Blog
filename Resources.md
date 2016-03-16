@@ -1,4 +1,6 @@
 ## Resources
+### How to get Started
+
 ### Manual Testing 
 
 Some Blogs and interesting people to follow for Manual Testing.
